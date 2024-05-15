@@ -1,5 +1,5 @@
-body{
-    background: #80347C;
+body {
+  background: #80347c;
 }
 div {
   width: 400px;
@@ -7,12 +7,14 @@ div {
 
   border-width: 20px;
   border-style: groove;
-  border-color: rgb(105, 129, 105);
-  border-radius: 20%;
+  border-color: rgb(128, 50, 128);
+  border-radius: 25%;
 
   background-image: url(imagens/front.jpg);
+
   text-align: center;
-  box-shadow: 50px 50px 50px 50px rgb(161, 109, 109);
+
+  box-shadow: inset 8px 6px 6px 6px rgb(161, 109, 109);
   background-size: cover;
 
   padding: 10px;
