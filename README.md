@@ -10,4 +10,5 @@ Solicitei ao Copilot Design que fizesse uma imagem que representasse o Front End
 Meu quadro ficou assim:
 
 
-![desco](https://github.com/ThaisDavilla/descodificadas-boxmodel/assets/78877580/513f37a7-efdb-4a0c-a2f7-c46fecc4130d)
+
+![desco](https://github.com/ThaisDavilla/descodificadas-boxmodel/assets/78877580/d2163d43-79e3-40de-b467-013ce661a389)
